@@ -13,8 +13,6 @@ wget -qO- get.acme.sh | bash //安装脚本
 source ~/.bashrc //让环境变量生效，以后无论在哪个路径，直接使用acme.sh
 ```
 ## 2. 配置证书
-
-### 2.1 证书安装
 ```
 export CF_Key="XXX" //修改XXX
 export CF_Email="XXX@hotmail.com" //修改XXX
