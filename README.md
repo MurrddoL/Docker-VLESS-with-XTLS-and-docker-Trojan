@@ -1,7 +1,7 @@
 ### Docker VLESS with XTLS & docker Trojan
 Docker 部署 Xray，实现VLESS+XTLS/Trojan共存
 ## 准备工作
-* 一个VPS，如[Vultr](https://www.vultr.com/?ref=6906410) ;[ION](https://ion.krypt.asia/aff.php?aff=139)
+* 一个VPS，如[Vultr](https://www.vultr.com/?ref=6906410) ;[V.PS](https://vps.hosting/?affid=658)
 * 准备一个域名，并将A记录添加好;
 
 ## 1. 安装acme.sh
